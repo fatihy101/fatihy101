@@ -2,9 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihy101" alt="fatihy101" /></a> </p>
 
-- 🔭 I’m currently working on [PetCare](https://github.com/fatihy101/petCare.git)
-
-- 🌱 I’m currently developing myself on **Vue and Spring Boot**
+- 🌱 I’m currently working on Modanisa as technologist
 
 - 👯 I’m looking to collaborate on [Enstrurent](https://github.com/Enstrurent/mobile-app)
 
