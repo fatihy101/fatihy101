@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihy101" alt="fatihy101" /></a> </p>
 
-- 🌱 I’m currently working on Modanisa as technologist
+- 🌱 I’m currently working at [Modanisa](https://tr.linkedin.com/company/modanisa) as technologist
 
 - 👯 I’m looking to collaborate on [Enstrurent](https://github.com/Enstrurent/mobile-app)
 
