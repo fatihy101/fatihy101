@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Fatih</h1>
-<h3 align="center">A full stack developer who likes to challange himself</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihy101" alt="fatihy101" /></a> </p>
 
