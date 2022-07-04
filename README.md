@@ -2,11 +2,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihy101" alt="fatihy101" /></a> </p>
 
-- 🌱 I’m currently working at [Modanisa](https://tr.linkedin.com/company/modanisa) as technologist
+- 🌱 I’m currently working at [Linkby](https://linkby.com/) as Full Stack Developer
 
-- 👯 I’m looking to collaborate on [Enstrurent](https://github.com/Enstrurent/mobile-app)
 
-- 💬 Ask me about **Vue, Flutter and Go**
+- 💬 Ask me about **Vue, Nuxt and Go**
 
 - 📫 You can reach me out via **fatihy@yahoo.com**
 
